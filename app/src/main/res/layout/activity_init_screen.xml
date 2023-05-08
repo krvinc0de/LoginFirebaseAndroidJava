@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         app:cardCornerRadius="20dp"
-        app:cardBackgroundColor="#211151"
+        app:cardBackgroundColor="#191825"
         app:cardElevation="20dp"
         >
         <LinearLayout
@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 android:text="Registrarse"
                 android:textAlignment="textStart"
-                android:textColor="#b9062e"
+                android:textColor="#E384FF"
                 android:textSize="50sp"
                 android:textStyle="bold"
                 tools:ignore="HardcodedText"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dp"
                 android:background="@drawable/custtom_edittext"
-                android:drawableLeft="@drawable/baseline_personal_injury_24"
+                android:drawableLeft="@drawable/baseline_email_24"
                 android:drawablePadding="8dp"
                 android:hint="Email"
                 android:minHeight="48dp"
@@ -74,7 +74,7 @@
                 android:id="@+id/register"
                 android:hint="Registrarse"
                 android:textColorHint="#FFF"
-                android:backgroundTint="#df600c"
+                android:backgroundTint="#E384FF"
                 android:padding="10dp"
                 android:layout_marginVertical="10dp"
             />
